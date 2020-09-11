@@ -8,7 +8,7 @@ This isn't my tool but a mod so check the creator out: https://github.com/htr-te
 
 Changelogs:
 1) Fixed an issue where the URL would not be generated.
-2) Fixed no in internet connection issue.
+2) Fixed no internet connection issue.
 
 
 
