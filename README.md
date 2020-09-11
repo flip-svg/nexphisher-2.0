@@ -15,8 +15,8 @@ Changelogs:
 Installation Instructions ( Make sure to run as root ) :
 1) apt update
 2) apt install git -y
-3) git clone git://github.com/htr-tech/nexphisher.git
-4) cd nexphisher
+3) git clone https://github.com/flip-svg/nexphisher-2.0.git
+4) cd nexphisher-2.0
 5) bash setup 
 6) (for termux) bash tmux_setup
 7) bash nexphisher
